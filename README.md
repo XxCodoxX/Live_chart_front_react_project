@@ -2,7 +2,7 @@
 
 ```diff
 - Before run this project you  need to install backend project and run, this is the repository for backend - 
-(https://github.com/XxCodoxX/Live_chart_back_node_project)
+[I'm an inline-style link](https://github.com/XxCodoxX/Live_chart_back_node_project)
 
 
 ```
